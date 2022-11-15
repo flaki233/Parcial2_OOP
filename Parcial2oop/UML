@@ -1,0 +1,13 @@
+cpelicula <|-- Mostrar:lista de peliculas
+Mostrar <|-- peliculas disponibles
+
+hora <|-- horarios
+pelicula1 <|-- Horas disponibles
+pelicula2 <|-- Horas disponibles
+pelicula3 <|-- Horas disponibles
+pelicula4 <|-- Horas disponibles
+
+puesto <|-- posicion
+
+Regulares <|--Escoger posicion regular
+VIP <|--Escoger posicion VIP
